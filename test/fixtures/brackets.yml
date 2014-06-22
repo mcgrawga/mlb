@@ -1,0 +1,20 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  id: 0
+  round2_team1: 1
+  round2_team2: 2
+  round2_team3: 3
+  round2_team4: 4
+  round2_team5: 5
+  round2_team6: 6 
+  round2_team7: 7 
+  round2_team8: 8 
+  round2_team9: 9 
+  round2_team10: 10 
+  round2_team11: 11
+  round2_team12: 12
+  round2_team13: 13
+  round2_team14: 14 
+  round2_team15: 15 
+  round2_team16: 16 
