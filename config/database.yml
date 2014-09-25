@@ -17,7 +17,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: fifa_development
+  database: mlb_development
   pool: 5
   username: mcgrawga
   password:
@@ -46,7 +46,7 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: fifa_test
+  database: mlb_test
   pool: 5
   username: mcgrawga
   password:
